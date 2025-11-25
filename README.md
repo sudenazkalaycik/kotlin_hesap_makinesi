@@ -2,21 +2,6 @@
 Calculator App
 </h1>
 
-<h2 align="center">
-Technologies I use while developing
-</h2>
-
-<h3 align="left">
- -MVVM(Model-View-ViewModel) <br>
- - LiveData <br>
- - Coroutines <br>
- - Room Database <br>
- - Navigation <br>
- - Fragment <br>
- - View Binding <br>
- - RecyclerView <br>
- </h3><br>
- 
  <h2 align="center">
 gif image of the app:
 </h2>
